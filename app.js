@@ -12,3 +12,6 @@ numbers.forEach (number => {
 
 let dollar = [1, 2, 3];
 
+/* Tjen tjena */ 
+
+let Teddy = [1, 2, 3];
